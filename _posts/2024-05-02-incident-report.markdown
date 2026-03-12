@@ -5,6 +5,12 @@ title: Incident Report
 img: incident.png
 alt: image-alt
 
+# Add the link to your journal below
+project-url: 
+
+
+
+
 # Reminder: Update this link with your own project link
 project-url: https://drive.google.com/file/d/1qgQmrH4yzHK6-cdeHpFRvSbdzhjV17pP/view?usp=sharing
 
