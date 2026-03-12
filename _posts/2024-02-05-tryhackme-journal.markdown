@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 5
+modal-id: 6
 title: TryHackMe Journal
 img: tryhackme.png
 alt: image-alt
