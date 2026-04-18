@@ -6,8 +6,8 @@ img: incident.png
 alt: image-alt
 
 # Add the link to your journal below
-project-url: 
+project-url: https://docs.google.com/document/d/1OaFrQPPHZuPk7azTDP9dUNXi1ta0UOPelsvp-xDaCYE/edit?usp=sharing
 
-# Once you've completed your project, update the 'description' below to this one: Identified DDoS attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations and maintain alignment with NIST CSF best practices.
-description: This project is in progress and not ready to be published just yet. Please contact me if you'd like a sneak peek. Otherwise, stay tuned!
+
+description: Identified DDoS attack, scope of incident, potential network vulnerabilities and protection measures, and properly documented analysis and recovery plans in order to restore normal operations and maintain alignment with NIST CSF best practices.
 ---
