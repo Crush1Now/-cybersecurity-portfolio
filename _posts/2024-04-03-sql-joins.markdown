@@ -5,9 +5,9 @@ title: SQL Query
 img: sql.png
 alt: image-alt
 
-# Reminder: Update this link with your own project link
+# Add the link to your journal below
 project-url: https://docs.google.com/document/d/10Hpb2uopWpQue7knlsP5ghmhoCKD3_JwUHRssdB5blk/edit?tab=t.0
 
-Implemented various JOIN commands (inner, left, right, self, and cross) in MySQL, utilizing UNION and UNION ALL to efficiently combine and query data from multiple tables.
-description: Implemented various filters in MySQL, utilizing AND, OR, and NOT to efficiently filter queries in SQL.  
+
+description: Implemented various filters in MySQL, utilizing AND, OR, and NOT to efficiently filter queries in SQL. 
 ---
